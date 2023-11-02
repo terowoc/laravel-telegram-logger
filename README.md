@@ -2,6 +2,9 @@
 
 Send logs to Telegram chat via Telegram bot
 
+## Demo
+![image](screenshot.png)
+
 ## Installation
 
 ```
