@@ -15,5 +15,11 @@
             "name": "Abdulloh Azimboev",
             "email": "dev@azimboev.uz"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Terowoc\\LaravelTelegramLogger\\Providers\\TelegramLoggerServiceProvider"
+            ]
+        }
 }
