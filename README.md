@@ -2,10 +2,9 @@
 
 Send logs to Telegram chat via Telegram bot
 
-## Install
+## Installation
 
 ```
-
 composer require grkamil/laravel-telegram-logging
 ```
 
