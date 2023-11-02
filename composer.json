@@ -22,4 +22,5 @@
                 "Terowoc\\LaravelTelegramLogger\\Providers\\TelegramLoggerServiceProvider"
             ]
         }
+    }
 }
