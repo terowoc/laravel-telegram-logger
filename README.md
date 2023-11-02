@@ -8,7 +8,7 @@ Send logs to Telegram chat via Telegram bot
 ## Installation
 
 ```
-composer require grkamil/laravel-telegram-logging
+composer require terowoc/laravel-telegram-logger
 ```
 
 Define Telegram Bot Token and chat id (users telegram id) and set as environment parameters.
