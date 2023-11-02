@@ -1,0 +1,19 @@
+{
+    "name": "terowoc/laravel-telegram-logger",
+    "type": "laravel-package",
+    "require": {
+        "telegram-bot/api": "^2.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Terowoc\\LaravelTelegramLogger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdulloh Azimboev",
+            "email": "dev@azimboev.uz"
+        }
+    ]
+}
